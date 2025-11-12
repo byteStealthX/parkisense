@@ -38,4 +38,14 @@ Always consult qualified healthcare professionals for medical advice.
 ---
 
 ## 📂 Project Structure
+parkisense/
+├── app/ # Next.js App Router pages and API routes
+├── components/ # Reusable UI components
+├── public/ # Static assets and icons
+├── model/ # Trained ML model (e.g., model.pkl)
+├── scripts/ # Audio preprocessing and training scripts
+├── utils/ # Helper functions
+└── README.md
+
+
 
