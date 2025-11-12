@@ -10,7 +10,7 @@ Always consult qualified healthcare professionals for medical advice.
 
 ## 🌐 Live Demo
 
-👉 https://parkisense-id60pmmk7-coder671s-projects.vercel.app
+👉 https://parkisense-240oxlxm4-coder671s-projects.vercel.app
 
 ---
 
@@ -46,6 +46,7 @@ parkisense/
 ├── scripts/ # Audio preprocessing and training scripts
 ├── utils/ # Helper functions
 └── README.md
+
 
 
 
